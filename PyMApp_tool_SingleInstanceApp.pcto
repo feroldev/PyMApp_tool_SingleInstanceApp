@@ -1,0 +1,18 @@
+PROJECT_NAME=PyMApp Framework
+
+PRODUCT_NAME=PyMApp Tool
+
+TOOL_NAME=PyMApp_tool_SingleInstanceApp
+
+DATE=2025/07/30
+STATUS=production
+DESCRIPTION=Utilidad ligera para Java que garantiza la ejecución de una única instancia de una aplicación de escritorio.
+VERSION=1.6.2
+
+REPO_TYPE=github
+REPO_URL=https://github.com/feroldev/PyMApp_tool_SingleInstanceApp
+
+LICENSE_TYPE=Apache License 2.0
+AUTHOR=OLMEDO Fernando R. {ferol.dev}
+COPYRIGHT=OLMEDO Fernando R. {ferol.dev} 1999-2025
+

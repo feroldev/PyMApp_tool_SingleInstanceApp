@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"dev.ferol.pymapp.tool","l":"SingleInstanceApp"}];updateSearchResults();

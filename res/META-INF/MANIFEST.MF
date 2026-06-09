@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: PyMApp Tool - SingleInstanceApp
+Implementation-Version: 1.6.2
+Implementation-Vendor: OLMEDO Fernando R. {ferol.dev}
+Automatic-Module-Name: dev.ferol.pymapp.SingleInstanceApp
+

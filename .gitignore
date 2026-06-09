@@ -1,0 +1,52 @@
+# Release Packages
+/deploy/*
+!/deploy/.gitkeep
+
+# Build
+/build/
+/bin/
+/out/
+/target/
+
+
+# Java
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Android Studio
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# VS Code
+.vscode/
+
+# DBeaver
+.dbeaver/
+
+# OpenCode
+AGENTS.md
+MEMORY.md
+opencode.json
+
+# Temporary files
+/tmp/
+
+# OS
+*~
+*.log
+.DS_Store
+Thumbs.db
+

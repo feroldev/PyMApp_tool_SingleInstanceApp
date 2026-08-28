@@ -164,20 +164,41 @@ Toda la implementación se basa en la comunicación TCP local a través de la in
 
 ## Información del Proyecto
 
-Proyecto:
-PyMApp Tool - SingleInstanceApp
+Proyecto: PyMApp Tool - SingleInstanceApp
 
-Autor:
-Fernando R. Olmedo {ferol.dev}
+Autor: Fernando R. Olmedo {ferol.dev}
 
-Repositorio:
-https://github.com/feroldev/PyMApp_tool_SingleInstanceApp
+Repositorio: https://github.com/feroldev/PyMApp_tool_SingleInstanceApp
 
-Versión:
-1.6.2
+Versión: 1.6.2
 
-Licencia:
-Apache License 2.0
+Licencia: Apache License 2.0
+
+---
+
+## Maven Central
+
+PyMApp Tool - SingleInstanceApp está disponible a través de Maven Central.
+
+### Maven
+
+```xml
+<dependency>
+    <groupId>dev.ferol</groupId>
+    <artifactId>pymapp-tool-singleinstanceapp</artifactId>
+    <version>1.6.2</version>
+</dependency>
+```
+
+### Gradle
+
+```gradle
+implementation 'dev.ferol:pymapp-tool-singleinstanceapp:1.6.2'
+```
+
+El artefacto está disponible en:
+
+[PyMApp Tool - SingleInstanceApp on Maven Central](https://central.sonatype.com/artifact/dev.ferol/pymapp-tool-singleinstanceapp?utm_source=chatgpt.com)
 
 ---
 

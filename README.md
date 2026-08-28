@@ -166,17 +166,39 @@ The entire implementation is based on local TCP communication through the loopba
 Project:
 PyMApp Tool - SingleInstanceApp
 
-Author:
-Fernando R. Olmedo {ferol.dev}
+Author: Fernando R. Olmedo {ferol.dev}
 
-Repository:
-https://github.com/feroldev/PyMApp_tool_SingleInstanceApp
+Repository: https://github.com/feroldev/PyMApp_tool_SingleInstanceApp
 
-Version:
-1.6.2
+Version: 1.6.2
 
-License:
-Apache License 2.0
+License: Apache License 2.0
+
+---
+
+## Maven Central
+
+PyMApp Tool - SingleInstanceApp is available from Maven Central.
+
+### Maven
+
+```xml
+<dependency>
+    <groupId>dev.ferol</groupId>
+    <artifactId>pymapp-tool-singleinstanceapp</artifactId>
+    <version>1.6.2</version>
+</dependency>
+```
+
+### Gradle
+
+```gradle
+implementation 'dev.ferol:pymapp-tool-singleinstanceapp:1.6.2'
+```
+
+The artifact is available at:
+
+[PyMApp Tool - SingleInstanceApp on Maven Central](https://central.sonatype.com/artifact/dev.ferol/pymapp-tool-singleinstanceapp?utm_source=chatgpt.com)
 
 ---
 
